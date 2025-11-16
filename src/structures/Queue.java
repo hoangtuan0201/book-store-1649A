@@ -11,6 +11,7 @@ public class Queue {
     private OrderLinkedList data;
 
     public Queue() {
+
         data = new OrderLinkedList(null);
     }
 
